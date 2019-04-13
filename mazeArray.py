@@ -1,6 +1,5 @@
 #Joseph Harrison 2019
 import random as r
-import time
 
 #make a template arr for maze
 def make_arr(I, J):
